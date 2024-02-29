@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simonelli"
+title:  "Jeanne Simonelli"
 date:   2024-02-28 20:47:30 -0600
 categories: jekyll update
 ---
