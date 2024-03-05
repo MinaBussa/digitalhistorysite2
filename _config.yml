@@ -22,7 +22,7 @@ title: Jeanne Simonelli
 email: mbussa@unomaha.edu
   #American, b. 1947. Genres: Novellas/Short stories, Poetry, Anthropology/Ethnology. Career: State University of New York College at Oneonta, professor of anthropology, 1985-99; Wake Forest University, chair and professor of anthropology, 1999-. Gives readings from her works in poetry and short fiction. Publications: Two Boys, a Girl, and Enough! Reproductive and Economic Decision Making on the Mexican Periphery, 1986; Too Wet to Plow: The Family Farm in Transition, 1990; Crossing between Worlds: The Navajos of Canyon de Chelly, 1997; The Sea of Our Dreams: Zapatista Development and Autonomy in Chiapas. Contributor to books. Contributor of articles and poems to journals
 description: >- #
-baseurl: "/digitalhistorysite2" # the subpath of your site, e.g. /blog
+baseurl: "/digitalhistorysite" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A 
 github_username:  MinaBussa
